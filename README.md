@@ -10,7 +10,10 @@
 - 1 cup sugar
 - 2 eg
 
-This recipe is **delicious** and *easy to make*!gs
+This recipe is **delicious** and *easy to make*!
+
+![Recipe](recipe.jpg)
+gs
 pe
 
 This recipe shows how to make classic chocolate chip cookies that are crispy on the edges and soft in the center. It's simple to follow and perfect for beginners or experienced bakers alike.
