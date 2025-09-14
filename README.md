@@ -3,7 +3,13 @@
 
 # My Recipe Project
 
-### About This Recipe
+### About This Reci
+
+### Ingredients
+- 2 cups flour
+- 1 cup sugar
+- 2 eggs
+pe
 
 This recipe shows how to make classic chocolate chip cookies that are crispy on the edges and soft in the center. It's simple to follow and perfect for beginners or experienced bakers alike.
 
